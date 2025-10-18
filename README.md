@@ -1,6 +1,1 @@
-# pg_rst_pg_dmp
-
-**Dump local restore**
-
-
-**Restore local db into neon**
+project to create docker images in github codes space to donwload it and work locally because I dont have docker access from my country
